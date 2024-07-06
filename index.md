@@ -15,7 +15,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Supplements
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   [Fish Oil (Omega 3)](https://www.livemomentous.com/products/omega-3?selling_plan=903807159)
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
 ## Header 2
 
