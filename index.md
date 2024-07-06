@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Welcome.
+I spend a lot of time finding 'the one', and thought it'd be a good idea to share amongst those who also seek quality.
+I do my best to have my ear to the ground in case a better option becomes available, but until then, here's what I've found.
+
 
 [Link to another page](./another-page.html).
 
@@ -10,7 +13,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Supplements
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
