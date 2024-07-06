@@ -7,19 +7,39 @@ I spend a lot of time finding 'the one', and thought it'd be a good idea to shar
 I do my best to have my ear to the ground in case a better option becomes available, but until then, here's what I've found.
 
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Supplements
+## Supplements
 
 *   [Fish Oil (Omega 3)](https://www.livemomentous.com/products/omega-3?selling_plan=903807159)
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [Multivitamin](https://www.livemomentous.com/products/essential-multivitamin?selling_plan=902922423)
+*   [Magnesium L-Threonate](https://www.livemomentous.com/products/magnesium-threonate?selling_plan=904790199)
+*   [Tongkat Ali](https://www.livemomentous.com/products/tongkat)
+*   [CoQ10](https://nootropicsdepot.com/coqsol-cf-coenzyme-q10-softgel-capsules-100mg-coq10/)
+*   [Alpha-GPC](https://nootropicsdepot.com/alpha-gpc-150mg-capsules/)
+*   [NA-R-Lipoic Acid](https://nootropicsdepot.com/na-r-ala-stabilized-r-lipoic-acid-narala-capsules-125mg/)
+*   [Acetyl L-Carnitine](https://nootropicsdepot.com/acetyl-l-carnitine-hcl-alcar-capsules-500mg/)
+*   [Electrolytes](drinklmnt.com)
+*   [Essential Aminos](https://www.getkion.com/products/aminos-capsules)
+*   [Clean Coffee](https://shop.bulletproof.com/products/coffee-the-original-ground-12oz)
+*   [Nicotine Gum](https://lucy.co/products/gum?selling_plan=711655610)
 
-## Header 2
+
+
+## Cosmetics
+
+*   [Daytime Moisturizer]()
+*   [Nighttime Moisterizer]()
+*   [Hair Styling Clay]()
+*   []()
+*   []()
+*   []()
+
+
+
+
+
+## Home Goods
+
+*   [Soap Dispenser]()
 
 > This is a blockquote following a header.
 >
