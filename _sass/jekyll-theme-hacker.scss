@@ -17,7 +17,7 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  // background: $body-background url("../images/bkg.png") 0 0;
+  background: rgba(255, 255, 255, 0);
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -196,7 +196,7 @@ hr {
   height: 0;
   border: 0;
   border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  color: #000000;
 }
 
 footer {
