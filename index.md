@@ -27,20 +27,28 @@ I do my best to have my ear to the ground in case a better option becomes availa
 
 ## Cosmetics
 
-*   [Daytime Moisturizer]()
-*   [Nighttime Moisterizer]()
-*   [Hair Styling Clay]()
+*   [Daytime Moisturizer](https://alitura.com/collections/all/products/alitura-gold-serum)
+*   [Nighttime Moisturizer](https://alitura.com/collections/all/products/the-alitura-night-cream)
+*   [Hair Styling Clay](https://www.morrismotley.com/products/matte-styling-balm)
 *   []()
 *   []()
 *   []()
-
-
 
 
 
 ## Home Goods
 
-*   [Soap Dispenser]()
+*   [Hand Soap Dispenser](https://www.simplehuman.com/products/foam-sensor-pump?variant=34055212138627)
+*   [Dish Soap Dispenser](https://www.simplehuman.com/products/rechargeable-sensor-pump-9-fl-oz?variant=43422388945027)
+
+
+
+## Cat Care
+
+*   [Wet Food](https://www.amazon.com/dp/B00AHTVWOM/ref=sns_myd_detail_page)
+*   [Dry Food](https://www.amazon.com/Ziwi-Peak-Air-Dried-Recipe-2-2lb/dp/B07MC93N7D?ref_=ast_sto_dp&th=1)
+*   [Cat Litter](https://www.tuftandpaw.com/products/really-great-cat-litter?variant=39411123912777) ([Referral](https://www.tuftandpaw.com/?referral_code=53rNz8fWve86b9b))
+*   [Cat Litter Box](https://www.tuftandpaw.com/collections/all/products/cove-litter-box-full?variant=40277967568969)
 
 
 

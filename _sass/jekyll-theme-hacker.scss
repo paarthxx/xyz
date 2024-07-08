@@ -199,6 +199,13 @@ hr {
   color: #b5e853;
 }
 
+footer {
+  background: rgba(100, 0, 0, 0);
+  width: 100%;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
+}
+
 /* Buttons
 */
 
@@ -242,7 +249,7 @@ hr {
 
 a {
   color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  // text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
