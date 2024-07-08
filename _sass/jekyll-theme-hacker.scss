@@ -17,7 +17,7 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
+  // background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -64,9 +64,9 @@ header h1 {
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  // text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+  //              0 0 5px rgba(181, 232, 83, 0.1),
+  //              0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
   @include media-max-width($container-max-width) {
@@ -107,9 +107,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  // text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+  //              0 0 5px rgba(181, 232, 83, 0.1),
+  //              0 0 10px rgba(181, 232, 83, 0.1);
 }
 
 #main_content h1 {
