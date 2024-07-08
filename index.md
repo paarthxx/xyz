@@ -53,5 +53,6 @@ I do my best to have my ear to the ground in case a better option becomes availa
 
 
 ```
-Contact.
+If you find a better option or have any suggestions, please [reach out](abc@paarth.xyz).
+[Tip](paarth.xyz)
 ```
