@@ -176,6 +176,7 @@ code.highlighter-rouge {
   margin: 0px -3px;
   color: #aa759f;
   border-radius: 2px;
+  text-align: right;
 }
 
 table {
@@ -200,12 +201,7 @@ hr {
   color: #000000;
 }
 
-footer {
-  background: rgba(100, 0, 0, 0);
-  width: 100%;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
-}
+
 
 /* Buttons
 */
@@ -270,4 +266,11 @@ a {
 
 #a-title {
   text-decoration: none;
+}
+
+#footer {
+  background: rgba(100, 0, 0, 0);
+  width: 100%;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
 }
