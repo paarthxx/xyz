@@ -19,7 +19,7 @@ a {
   color: white
 }
 
-a:active {
+a:visited {
   color:lightpink
 }
 
@@ -37,7 +37,6 @@ li {
 }
 
 header {
-  background: rgb(255, 255, 255);
   width: 100%;
   padding: 20px 0;
 }
