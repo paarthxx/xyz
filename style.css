@@ -1,10 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  background: rgba(255, 255, 255, 0);
+  background: black;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: white
 }
 
 .container {
@@ -39,13 +40,13 @@ header h1 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-  color: black
+  color: white
 }
 
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: white;
 }
 
 .line-break-block {
@@ -57,7 +58,7 @@ header h2 {
 }
 
 #footer {
-  background: rgba(100, 0, 0, 0);
+  background: black;
   width: 100%;
   padding: 40px 0 20px 0;
   text-align: right;
