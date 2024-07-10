@@ -19,8 +19,11 @@ a {
   color: white
 }
 
-a:visited {
+a:hover {
   color:lightpink
+}
+a:visited {
+  color:lightcoral
 }
 
 section {
