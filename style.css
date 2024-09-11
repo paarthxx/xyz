@@ -72,6 +72,7 @@ header h2 {
   background: black;
   width: 100%;
   padding: 40px 0 0px 0;
+  font-size: 12px;
   text-align: right;
 }
 
@@ -105,4 +106,21 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h2 {
   font-size: 24px;
   padding: 20px 0 0 0;
+}
+
+#backToTopBtn {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.2em;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#backToTopBtn:hover {
+  color: lightcoral;
+}
+
+#soundcloud-icon {
+  display: inline-block;
+  padding: 5px 0;
 }
