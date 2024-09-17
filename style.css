@@ -12,7 +12,7 @@ body {
   width: 90%;
   max-width: 1000px;
   margin: 0 auto;
-  background: black
+  background: black;
 }
 
 a {
@@ -40,8 +40,48 @@ li {
 }
 
 header {
-  width: 100%;
-  padding: 20px 0 0 0;
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  background: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: flex-start; /* This aligns items to the top */
+}
+
+.header-container {
+  flex: 1;
+}
+
+h1 {
+  margin: 0;
+}
+
+.nav-container {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start; /* This aligns the nav to the top */
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  text-align: right;
+}
+
+nav a {
+  text-decoration: none;
+  color:white;
+}
+nav:hover {
+  color:lightpink
+}
+nav:visited {
+  color:lightcoral
 }
 
 header h1 {
