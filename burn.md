@@ -1,6 +1,6 @@
-## learns from earning my first burn  
+### learns from earning my first burn  
 
-### 'this year i was a witness, next year, i'll be a participant.'
+#### 'this year i was a witness, next year, i'll be a participant.'
 
 no matter how much preparation you do, as a first timer, you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
@@ -16,6 +16,7 @@ in short: you gotta earn the burn.
 a group of people all going to war against nature
 
 respect the playa
+
 embrace the dust
 
 men: shave your legs
@@ -32,7 +33,7 @@ ebike + lights = self expression
 undercover ≠ self expression
 
 
-### critical items
+#### critical items
 - ear plugs
 - quality socks (lots)
 - dust mask
@@ -40,7 +41,7 @@ undercover ≠ self expression
 - lightweight footwear
 - water proof shoe covers - put on before any contact with wet playa
 
-### pro moves
+#### pro moves
 - x2 hydration packs. freeze both, then rotate daily/nightly
 - rear view mirror for (e)bike
 
