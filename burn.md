@@ -19,6 +19,13 @@ respect the playa
 
 embrace the dust
 
+hot tip: shave all your body hair. less hair means less surface area for sand to stick to.
+i was lucky to have this thought a few days prior and shaved my legs for the first time.
+besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.
+bumping into something sandy (everything) meant i could simply swipe the dust away.
+if you're lucky enough to have access to a shower, you'll be able to dry yourself quicker. which really helps since you want to be as dry as possible when you step back outside.
+next year i plan to get waxed a week prior.
+
 men: shave your legs
 if first time do so a few days prior and make sure to exfoliate in the subsequent days
 I’m going to try getting waxed next year
@@ -42,7 +49,7 @@ undercover ≠ self expression
 - water proof shoe covers - put on before any contact with wet playa
 
 #### pro moves
-- x2 hydration packs. freeze both, then rotate daily/nightly
+- x2 hydration bladders. freeze both, then rotate daily/nightly. pro pro: add 4-5 sachets of electrolytes.
 - rear view mirror for (e)bike
 
 
@@ -51,3 +58,5 @@ Aiming to get to playa on Friday? Aim for Thursday
 Aiming to leave reno on Thursday, aim to leave on wed
 
 Worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.
+
+Go to the temple alone, preferably sober.
