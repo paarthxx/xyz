@@ -68,7 +68,8 @@ h1 {
 
 nav {
   display: flex;
-  flex-direction: column;
+  justify-content: flex-end;
+  flex-direction: row;
   gap: 15px;
   text-align: right;
 }
@@ -110,7 +111,7 @@ header h2 {
 
 #footer {
   background: black;
-  width: 100%;
+  width: 1000px;
   padding: 40px 0 0px 0;
   font-size: 12px;
   text-align: right;

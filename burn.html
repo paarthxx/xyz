@@ -14,63 +14,35 @@
 
   <body>
     <header>
-        <div class="header-container">
-          <a id="top"></a>
-          <a id="main_heading" href="https://www.paarth.xyz">
-              <h1>paarth.xyz</h1>
-          </a>
-          <div class="nav-container"></div>
-            <nav>
-              <a href="index.html">home</a>
-            </nav>        
-          </div>
+      <div class="header-container">
+        <a id="top"></a>
+        <a id="main_heading" href="https://www.paarth.xyz">
+            <h1>paarth.xyz</h1>
+        </a>
+        <div class="nav-container"></div>
+          <nav>
+            <a href="index.html">home</a><a href="digital.html">digital</a>
+          </nav>        
         </div>
-      </header>
+      </div>
+    </header>
 
     <div class="container">
       <section id="content">      
     </div>
+
     <div class="container">
       <section id="footer">
         <a href="#top" id="backToTopBtn">⇡</a> 
         <span class="line-break-block">If you have any additional advice,</span>
-        <span class="line-break-block">please <a href="mailto:abc@paarth.xyz">reach out</a>.</span>
+        <span class="line-break-block">please <a href="mailto:<abcATFirstName.xyz>">reach out</a>.</span>
         <span><a href="https://soundcloud.com/paarthx" target="_blank" rel="noopener noreferrer" id="soundcloud-icon">
           <i class="fa fa-soundcloud"></i></a></span>
         <span style="font-size: 8px;" class="line-break-block">updated sept. 17, 2024.</span>
       </section>
     </div>
-    <script>
-      let backToTopBtn = document.getElementById("backToTopBtn");
-    
-      backToTopBtn.addEventListener("click", function(e) {
-        e.preventDefault();
-        scrollToTop(888); // 1500 milliseconds = 1.5 seconds
-      });
-    
-      function easeInOutCubic(t) {
-        return t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1;
-      }
-    
-      function scrollToTop(duration) {
-        const start = window.pageYOffset;
-        const startTime = 'now' in window.performance ? performance.now() : new Date().getTime();
-    
-        function scroll() {
-          const now = 'now' in window.performance ? performance.now() : new Date().getTime();
-          const time = Math.min(1, ((now - startTime) / duration));
-          
-          window.scrollTo(0, Math.ceil(start * (1 - easeInOutCubic(time))));
-          
-          if (time < 1) {
-            requestAnimationFrame(scroll);
-          }
-        }
-    
-        requestAnimationFrame(scroll);
-      }
-    </script>
-        <script src="burn.js"></script>
+    <script src="backToTop.js"></script>
+    <script src="burn.js"></script>
   </body>
 </html>
 
