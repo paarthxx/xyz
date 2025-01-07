@@ -1,0 +1,5 @@
+[
+  { "name": "home", "file": "index.md" },
+  { "name": "digital", "file": "digital.md" },
+  { "name": "burn", "file": "burn.md" }
+]
