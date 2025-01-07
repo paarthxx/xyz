@@ -21,19 +21,21 @@ document.addEventListener("DOMContentLoaded", async () => {
     navElement.innerHTML = "<p>Navigation could not be loaded.</p>";
   }
 
-  // Load page content
+  // Load initial page content
   loadPage(currentPage);
-
-  async function loadPage(file) {
-    try {
-      const response = await fetch(`content/${file}`);
-      if (!response.ok) throw new Error("Page not found");
-      const text = await response.text();
-      contentElement.innerHTML = marked.parse(text); // Convert Markdown to HTML
-      history.pushState({}, "", `#${file}`);
-    } catch (error) {
-      console.error("Failed to load page:", error);
-      contentElement.innerHTML = "<h1>404 - Page not found</h1>";
-    }
-  }
 });
+
+// Define loadPage as a global function
+async function loadPage(file) {
+  const contentElement = document.getElementById("content");
+  try {
+    const response = await fetch(`content/${file}`);
+    if (!response.ok) throw new Error("Page not found");
+    const text = await response.text();
+    contentElement.innerHTML = marked.parse(text); // Convert Markdown to HTML
+    history.pushState({}, "", `#${file}`);
+  } catch (error) {
+    console.error("Failed to load page:", error);
+    contentElement.innerHTML = "<h1>404 - Page not found</h1>";
+  }
+}
