@@ -1,24 +1,44 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const backToTopBtn = document.getElementById("backToTopBtn");
+  const footerContainer = document.getElementById("footer-container");
 
-  if (backToTopBtn) {
-    backToTopBtn.addEventListener("click", (event) => {
-      event.preventDefault(); // Prevent default anchor click behavior
+  // Monitor the footer container for content changes
+  const observer = new MutationObserver(() => {
+    const backToTopBtn = document.getElementById("backToTopBtn");
 
-      // Smooth scroll to the top using requestAnimationFrame
-      const scrollToTop = () => {
-        const currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+    if (backToTopBtn) {
+      // Attach event listener once the button exists
+      backToTopBtn.addEventListener("click", function (e) {
+        e.preventDefault();
+        scrollToTop(888); // 888ms duration
+      });
 
-        if (currentScroll > 0) {
-          // Reduce scroll position by a fixed amount (e.g., 20px)
-          window.scrollTo(0, currentScroll - 20);
+      // Disconnect the observer since the button is now attached
+      observer.disconnect();
+    }
+  });
 
-          // Continue animation
-          requestAnimationFrame(scrollToTop);
-        }
-      };
+  observer.observe(footerContainer, { childList: true, subtree: true });
 
-      scrollToTop(); // Start the animation
-    });
+  // Smooth scroll function
+  function scrollToTop(duration) {
+    const start = window.pageYOffset;
+    const startTime = 'now' in window.performance ? performance.now() : new Date().getTime();
+
+    function easeInOutCubic(t) {
+      return t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1;
+    }
+
+    function scroll() {
+      const now = 'now' in window.performance ? performance.now() : new Date().getTime();
+      const time = Math.min(1, (now - startTime) / duration);
+
+      window.scrollTo(0, Math.ceil(start * (1 - easeInOutCubic(time))));
+
+      if (time < 1) {
+        requestAnimationFrame(scroll);
+      }
+    }
+
+    requestAnimationFrame(scroll);
   }
 });
