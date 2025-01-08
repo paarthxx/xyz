@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const navElement = document.getElementById("nav");
   const contentElement = document.getElementById("content");
+  const footerContainer = document.getElementById("footer-container");
   const defaultPage = "index.md";
 
   // Function to load navigation and exclude the current page
@@ -22,6 +23,34 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   };
 
+  // Function to load footer content
+  const loadFooter = async () => {
+    try {
+      const response = await fetch("content/footer.html");
+      if (!response.ok) throw new Error("Footer not found");
+      const footerHtml = await response.text();
+      footerContainer.innerHTML = footerHtml;
+  
+      // Dynamically set the last updated date
+      const lastUpdatedElement = document.getElementById("last-updated");
+      if (lastUpdatedElement) {
+        const lastModified = new Date(document.lastModified); // Get the last modified date of the current document
+        const formattedDate = lastModified
+          .toLocaleDateString("en-US", {
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+          })
+          .toString(); // Ensure the result is treated as a string
+        lastUpdatedElement.textContent = formattedDate.toLowerCase(); // Convert to lowercase
+      }
+    } catch (error) {
+      console.error("Failed to load footer:", error);
+      footerContainer.innerHTML = "<p>Footer could not be loaded.</p>";
+    }
+  };
+  
+
   // Function to load page content
   const loadPage = async (file) => {
     try {
@@ -40,6 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Initial page load
   const initialPage = window.location.hash.substring(1) || defaultPage;
   loadPage(initialPage);
+  loadFooter(); // Load the footer once on page load
 
   // Event delegation for navigation links
   navElement.addEventListener("click", (event) => {
