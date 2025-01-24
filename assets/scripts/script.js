@@ -86,4 +86,17 @@ document.addEventListener("DOMContentLoaded", () => {
     const currentPage = window.location.hash.substring(1) || defaultPage;
     loadPage(currentPage);
   });
-});
+
+  // Function to copy to clipboard
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text)
+        .then(() => {
+            alert(`"${text}" copied to clipboard!`);
+        })
+        .catch(err => {
+            alert("Failed to copy text: " + err);
+        });
+ }});
+
+
+ 
