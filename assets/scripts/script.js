@@ -92,9 +92,18 @@ document.addEventListener("DOMContentLoaded", () => {
     window.copyToClipboard = function (text) {
         console.log(`Copying text: ${text}`);
         navigator.clipboard.writeText(text)
-            .then(() => {
-                alert(`"${text}" copied to clipboard!`);
-            })
+        .then(() => {
+          const link = document.querySelector('a[onclick*="copyToClipboard"]'); // Select the "solana" link
+          const originalText = link.textContent; // Save the original text
+          
+          // Update the link text
+          link.textContent = "copied";
+
+          // Revert to original text after 5 seconds
+          setTimeout(() => {
+              link.textContent = originalText;
+          }, 5000);
+      })
             .catch(err => {
                 alert("Failed to copy text: " + err);
             });
