@@ -88,15 +88,18 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Function to copy to clipboard
-  function copyToClipboard(text) {
-    navigator.clipboard.writeText(text)
-        .then(() => {
-            alert(`"${text}" copied to clipboard!`);
-        })
-        .catch(err => {
-            alert("Failed to copy text: " + err);
-        });
- }});
+  console.log("Script is running!");
+    window.copyToClipboard = function (text) {
+        console.log(`Copying text: ${text}`);
+        navigator.clipboard.writeText(text)
+            .then(() => {
+                alert(`"${text}" copied to clipboard!`);
+            })
+            .catch(err => {
+                alert("Failed to copy text: " + err);
+            });
+    };
+ });
 
 
  
