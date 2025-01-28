@@ -88,15 +88,13 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Function to copy to clipboard
-    window.copyToClipboard = function (text) {
-        console.log(`Copying text: ${text}`);
-        navigator.clipboard.writeText(text)
-        .then(() => {
-          const link = document.querySelector('a[onclick*="copyToClipboard"]'); // Select the "solana" link
-          const originalText = link.textContent; // Save the original text
+  function copyToClipboard(element, text) {
+    // Copy the text to clipboard
+    navigator.clipboard.writeText(text).then(() => {
+    
           
           // Update the link text
-          link.textContent = "copied";
+          element.textContent = 'copied';
 
           // Revert to original text after 5 seconds
           setTimeout(() => {
@@ -114,4 +112,24 @@ document.addEventListener("DOMContentLoaded", () => {
  });
 
 
- 
+
+<script>
+  function copyToClipboard(element, text) {
+    // Copy the text to clipboard
+    navigator.clipboard.writeText(text).then(() => {
+      // Change the text of the clicked link to 'copied'
+      element.textContent = 'copied';
+      
+      // Optional: Reset the text back to original after a delay
+      setTimeout(() => {
+        if (text === '111') {
+          element.textContent = 'ethereum';
+        } else if (text === '999') {
+          element.textContent = 'solana';
+        }
+      }, 2000);
+    }).catch(err => {
+      console.error('Could not copy text: ', err);
+    });
+  }
+</script>
