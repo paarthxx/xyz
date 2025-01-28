@@ -88,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Function to copy to clipboard
+  console.log("Script is running!");
     window.copyToClipboard = function (text) {
         console.log(`Copying text: ${text}`);
         navigator.clipboard.writeText(text)
