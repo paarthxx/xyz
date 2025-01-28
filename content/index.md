@@ -14,7 +14,7 @@ Your perspective likely differs, so without further ado...<br>
 - [Alpha-GPC](https://nootropicsdepot.com/alpha-gpc-150mg-capsules/)
 - [CoQ10](https://nootropicsdepot.com/coqsol-cf-coenzyme-q10-softgel-capsules-100mg-coq10/)
 - [Electrolytes](https://drinklmnt.com)
-- [Essential Amino Acids](https://www.getkion.com/products/aminos-capsule)
+- [Essential Amino Acids](https://www.getkion.com/collections/see-all/products/aminos-capsules)
 - [Magnesium L-Threonate](https://www.livemomentous.com/products/magnesium-threonate?selling_plan=904790199)
 - [Melatonin](https://shop.bulletproof.com/products/sleep-mode-60-count)
 - [Multivitamin](https://www.livemomentous.com/products/essential-multivitamin?selling_plan=902922423)
