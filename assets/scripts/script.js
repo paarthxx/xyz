@@ -110,26 +110,3 @@ document.addEventListener("DOMContentLoaded", () => {
             });
     };
  });
-
-
-
-<script>
-  function copyToClipboard(element, text) {
-    // Copy the text to clipboard
-    navigator.clipboard.writeText(text).then(() => {
-      // Change the text of the clicked link to 'copied'
-      element.textContent = 'copied';
-      
-      // Optional: Reset the text back to original after a delay
-      setTimeout(() => {
-        if (text === '111') {
-          element.textContent = 'ethereum';
-        } else if (text === '999') {
-          element.textContent = 'solana';
-        }
-      }, 2000);
-    }).catch(err => {
-      console.error('Could not copy text: ', err);
-    });
-  }
-</script>
