@@ -48,6 +48,7 @@ Your perspective likely differs, so without further ado...<br>
 - [Water Filter (Under Sink)](https://www.aquasana.com/under-sink-water-filters/claryum-direct-connect-100329886.html)
 - [Shower Filter](https://www.aquasana.com/shower-head-water-filters/white-shower-wand-100236226.html)
 - [Multi-Purpose Cleaner](https://www.grove.co/catalog/product/all-purpose-cleaner-concentrate/?v=7000&attrpg=catalog&attrsrc=22&attrpos=2)
+- [Incense Burner](https://kinobjects.com/collections/incense-burners-holders)
 
 ## Food
 
@@ -76,6 +77,7 @@ Your perspective likely differs, so without further ado...<br>
 - [Underwear](https://www.icebreaker.com/en-us/packs/merino-anatomica-boxers-with-fly-3-pack/0A56PAU2.html?dwvar_0A56PAU2_color=001&dwvar_0A56PAU2_US=in_line)
 - [Socks](https://shop.lululemon.com/p/men-socks/Power-Stride-No-Show-Performaheel-M-MD/_/prod11720684?color=5752)
 - [Shoes](https://www.aliexpress.us/item/2255800829530233.html?spm=a2g0o.order_list.order_list_main.10.228e1802z2PN6F&gatewayAdapt=glo2usa4itemAdapt)
+- [Jewelry](https://www.vitalydesign.com)
 
 ## Cat
 
@@ -87,6 +89,7 @@ Your perspective likely differs, so without further ado...<br>
 ## Travel
 
 - [Pillow](https://plutopillow.com/products/pod)
+- [Toiletry Bag](https://www.peakdesign.com/products/wash-pouch?Size=Regular&Color=Black)
 
 ## Wishlist
 
