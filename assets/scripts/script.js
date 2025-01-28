@@ -88,7 +88,6 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Function to copy to clipboard
-  console.log("Script is running!");
     window.copyToClipboard = function (text) {
         console.log(`Copying text: ${text}`);
         navigator.clipboard.writeText(text)
@@ -101,7 +100,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
           // Revert to original text after 5 seconds
           setTimeout(() => {
-              link.textContent = originalText;
+            if (text === '0x3919599C6c6C30487F8c4e162F32e450751D43bF') {
+              element.textContent = 'ethereum';
+            } else if (text === '657aqFk7BWv4EyQvivrbwB9iA8msNir9zCfjb9EN4YS9') {
+              element.textContent = 'solana';
+            }
           }, 5000);
       })
             .catch(err => {
