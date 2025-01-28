@@ -88,28 +88,23 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Function to copy to clipboard
-  function copyToClipboard(event, element, text) {
-    // Prevent the default action (e.g., jumping to the top of the page)
-    if (event) {
-      event.preventDefault();
-    }
+    window.copyToClipboard = function (text) {
+        console.log(`Copying text: ${text}`);
+        navigator.clipboard.writeText(text)
+        .then(() => {
+          const link = document.querySelector('a[onclick*="copyToClipboard"]'); // Select the "solana" link
+          const originalText = link.textContent; // Save the original text
+          
+          // Update the link text
+          link.textContent = "copied";
 
-    // Copy the text to clipboard
-    navigator.clipboard.writeText(text).then(() => {
-      // Update the link text to 'copied'
-      element.textContent = 'copied';
-
-      // Revert the text back after 5 seconds
-      setTimeout(() => {
-        if (element.id === 'ethereum') {
-          element.textContent = 'ethereum';
-        } else if (element.id === 'solana') {
-          element.textContent = 'solana';
-        }
-      }, 5000);
-    }).catch(err => {
-      console.error('Failed to copy text:', err);
-      alert('Failed to copy text. Please try again.');
-    });
+          // Revert to original text after 5 seconds
+          setTimeout(() => {
+              link.textContent = originalText;
+          }, 5000);
+      })
+            .catch(err => {
+                alert("Failed to copy text: " + err);
+            });
     };
  });
