@@ -2,7 +2,7 @@
 Welcome. I spend a lot of time finding 'the one', and thought it’d be a good idea to share amongst those who also seek quality.<br>
 I do my best to keep my ear to the ground in case a better option becomes available, but until then, here’s what I’ve found.<br>
 You‘ll notice these items aren't 'cheap', but the best rarely is.<br>
-Personally, I prefer to spend more now to improve my current experience vs. saving to improve my experience in the future, because hey, the future may never come.<br>
+Personally, I prefer to spend more now to improve my current experience vs. saving to improve my experience in the future, because hey, the future may never arrive.<br>
 Your perspective likely differs, so without further ado...<br>
 </section>
 
@@ -97,7 +97,7 @@ Your perspective likely differs, so without further ado...<br>
 
 ## Investigating
 
-- Safety Razor
+- [Safety Razor](https://alitura.com/collections/all/products/the-alitura-razor)
 - Tech Pouch
 
 </section>
