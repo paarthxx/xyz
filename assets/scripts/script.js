@@ -91,22 +91,19 @@ document.addEventListener("DOMContentLoaded", () => {
   function copyToClipboard(element, text) {
     // Copy the text to clipboard
     navigator.clipboard.writeText(text).then(() => {
-    
-          
-          // Update the link text
-          element.textContent = 'copied';
+      // Update the link text
+      element.textContent = 'copied';
 
           // Revert to original text after 5 seconds
           setTimeout(() => {
-            if (text === '0x3919599C6c6C30487F8c4e162F32e450751D43bF') {
+            if (element.id === 'ethereum') {
               element.textContent = 'ethereum';
-            } else if (text === '657aqFk7BWv4EyQvivrbwB9iA8msNir9zCfjb9EN4YS9') {
+            } else if (element.id === 'solana') {
               element.textContent = 'solana';
             }
           }, 5000);
-      })
-            .catch(err => {
-                alert("Failed to copy text: " + err);
-            });
+      }).catch(err => {
+        alert("Failed to copy text: " + err);
+      });
     };
  });
