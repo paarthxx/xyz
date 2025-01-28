@@ -88,7 +88,10 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Function to copy to clipboard
-  function copyToClipboard(element, text) {
+  function copyToClipboard(event, element, text) {
+    // Prevent the default action (e.g., jumping to the top of the page)
+    event.preventDefault();
+    
     // Copy the text to clipboard
     navigator.clipboard.writeText(text).then(() => {
       // Update the link text
