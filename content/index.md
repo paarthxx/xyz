@@ -31,6 +31,7 @@ Your perspective likely differs, so without further ado...<br>
 - [Conditioner](https://livinglibations.com/products/shine-on-hair-conditioner-dlvrr?variant=42980597235850)
 - [Daytime Moisturizer](https://alitura.com/collections/all/products/alitura-gold-serum)
 - [Deodorant](https://livinglibations.com/products/underarm-charm-creme-deodorant-maverick-dlvrr?_pos=5&_sid=99f30a105&_ss=r)
+- [Deoderant (Baking Soda-free)](https://superdeodorant.com/products/unscented-aluminum-free-baking-soda-free-natural-deodorant-paste)
 - [Hair Styling Clay](https://www.morrismotley.com/products/matte-styling-balm)
 - [Hand Soap / Travel Body Wash](https://www.drbronner.com/products/baby-unscented-pure-castile-liquid-soap)
 - [Nighttime Moisturizer](https://alitura.com/collections/all/products/the-alitura-night-cream)
