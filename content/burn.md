@@ -1,7 +1,7 @@
 # learns from earning my first burn  
 
 
-## **'this year i was a witness, next year, i'll be a participant'**
+> **'this year i was a witness, next year, i'll be a participant'**
 
 
 no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
@@ -16,7 +16,7 @@ one small caveat: the desire to realize a vision requires that you be willing (a
 in short: you will earn your burn.
 
 
-## **'2025 is gonna be fuckn’ different bruv'**
+> **'2025 is gonna be fuckn’ different bruv'**
 
 
 **tips / hygiene**
@@ -64,6 +64,7 @@ piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes
 
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression.
+
 ---
 
 **tips / pro moves**
@@ -84,6 +85,7 @@ rear view mirror for (e)bike.
 - a water bladder (ideally as part of a great backpack)
 - quality socks (lots)
 - spf lip balm  
+
 
 
 i think this will be a continuously growing document so I’ll refine / add when I get time..
