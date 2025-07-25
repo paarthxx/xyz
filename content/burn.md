@@ -52,7 +52,7 @@ I never used the portable bidet I bought, different solution required
 maybe a spray bottle with water with a jet feature lmao
 
 
-**id**
+**tips / id**
 
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression
