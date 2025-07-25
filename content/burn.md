@@ -4,9 +4,10 @@
 ## **'this year i was a witness, next year, i'll be a participant'**
 
 
-**thoughts**
+no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
-no matter how much preparation you do, as a first timer, you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
+
+**thoughts**
 
 i did a tonne of research leading up to my first burn. i scoured reddit for as much useful information as possible, trawled through a plethora of 'packing lists', and spoke to friends that had attended in previous years. despite my efforts, there's still so much i wish i had known and been better prepared for.
 
