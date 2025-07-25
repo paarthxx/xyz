@@ -21,7 +21,6 @@ in short: you will earn your burn.
 
 
 ### tips / hygiene
-
 shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness
 besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.
 bumping into something sandy (everything) meant i could simply swipe the dust away.
