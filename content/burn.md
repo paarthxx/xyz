@@ -86,7 +86,7 @@ rear view mirror for (e)bike.
 - water proof shoe covers - put on before any contact with wet playa, like while still in your tent
 - a cord for your sunglasses so it can hang around your neck
 - a water bladder (ideally as part of a great backpack)
-- quality socks (lots)
+- quality socks made of natural fibres (wool, cotton / lots)
 - spf lip balm
 
 
