@@ -1,6 +1,6 @@
 # learns from earning my first burn  
 
-## ***'this year i was a witness, next year, i'll be a participant'***
+## **'this year i was a witness, next year, i'll be a participant'**
 
 no matter how much preparation you do, as a first timer, you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
@@ -13,16 +13,18 @@ in short: you will earn your burn.
 
 ## ‘**2025 is gonna be fuckn’ different bruv'**
 
-#### tips
+### tips
 
-#### **hair**
+**hair**
+
 shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness
 besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.
 bumping into something sandy (everything) meant i could simply swipe the dust away.
 if first time going hair free, do so a few days prior and make sure to exfoliate for a couple of minutes everyday - it completely mitigates the itching
 seriously considering getting waxed next time
 
-#### **time**
+**time**
+
 expecting the unexpected is impossible to do, and the unexpected situations usually take an unexpectedly long time, so give yourself a buffer wherever possible.
 aiming to get to playa on fri? Aim for thur
 aiming to leave reno on thur? Aim to leave on wed
@@ -30,25 +32,30 @@ aiming to leave reno on thur? Aim to leave on wed
 worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.
 
 **tent**
+
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
 
 piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust
 
 **hygiene / dust**
+
 to deal with alkaline dust, people recommend applying vinegar + water to neuatralize
 sounded harsh to me so i went with with hazel + water, and in a spray bottle
 spray on the desired area (or everywhere), wipe with wet wipe
 I did this before sleeping, and followed with a generous application of sheabutter.
 
 **hygiene / asshole**
+
 I never used the portable bidet I bought, different solution required
 maybe a spray bottle with water with a jet feature lmao
 
 **id**
+
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression
 
 **pro moves**
+
 if you have access to a freezer, take x2 water bladders, fill both and freeze. Then each day rotate one, so you’ll always have a frozen one available
 there is **nothing** like ending a cold night of cycling with a hot sunrise and some icy cold water (pro pro move:  add 4-5 sachets of electrolytes)
 
