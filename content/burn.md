@@ -18,7 +18,7 @@ in short: you will earn your burn.
 
 
 > ## **'2025 is gonna be fuckn’ different bruv'**
-
+<br>
 
 **tips / hygiene**
 
@@ -29,7 +29,7 @@ if first time going hair free, do so a few days prior and make sure to exfoliate
 seriously considering getting waxed next time.
 
 ---
-
+<br>
 
 **tips / hygiene / dust**
 
