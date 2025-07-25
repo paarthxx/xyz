@@ -44,7 +44,7 @@ Your perspective likely differs, so without further ado...<br>
 - [Dish Soap](https://www.mrsmeyers.com/product/dish/dish-soap/liquid-dish-soap-refill-lemon-verbena/)
 - [Dish Soap Dispenser](https://www.simplehuman.com/products/rechargeable-sensor-pump-9-fl-oz?variant=43422388945027)
 - [Dish Rack](https://www.simplehuman.com/products/compact-steel-frame-dishrack?variant=34278115868803)
-- [Hand Soap Dispenser](https://a.co/d/5TPRQz4)
+- [Hand Soap Dispenser](https://www.simplehuman.com/products/sensor-pump-foam?variant=44994947088515)
 - [Laundry Detergent](https://www.mrsmeyers.com/product/laundry/laundry-detergent/liquid-laundry-detergent-lemon-verbena/)
 - [Multi-Purpose Cleaner](https://www.grove.co/catalog/product/all-purpose-cleaner-concentrate/?v=7000&attrpg=catalog&attrsrc=22&attrpos=2)
 - [Shower Filter](https://www.aquasana.com/shower-head-water-filters/white-shower-wand-100236226.html)
