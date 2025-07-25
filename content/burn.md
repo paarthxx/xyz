@@ -20,6 +20,7 @@ in short: you will earn your burn.
 
 
 **tips / hygiene**
+
 shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness
 besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.
 bumping into something sandy (everything) meant i could simply swipe the dust away.
@@ -28,6 +29,7 @@ seriously considering getting waxed next time.
 
 
 **tips / hygiene / dust**
+
 to deal with alkaline dust, people recommend applying vinegar + water to neuatralize
 sounded harsh to me so i went with with hazel + water, and in a spray bottle
 spray on the desired area (or everywhere), wipe with wet wipe
@@ -35,10 +37,13 @@ I did this before sleeping, and followed with a generous application of sheabutt
 
 
 **tips / hygiene / asshole**
+
 I never used the portable bidet I bought, different solution required
 maybe a spray bottle with water with a jet feature lmao  
 
+
 **tips / time**
+
 expecting the unexpected is impossible to do, and the unexpected situations usually take an unexpectedly long time, so give yourself a buffer wherever possible.
 aiming to get to playa on fri? Aim for thur
 aiming to leave reno on thur? Aim to leave on wed
@@ -49,7 +54,6 @@ worst case scenario, you’ll be way ahead of schedule, which is never a bad thi
 **tips / tent**
 
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
-
 piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust  
 
 
@@ -60,7 +64,7 @@ piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes
 
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression. 
-
+--
 
 **tips / pro moves**
 
