@@ -48,10 +48,19 @@ i did this before sleeping, and followed with a generous application of sheabutt
 <br>
 
 
+**tips / hygiene / eyes**
+
+if you wear contact lenses, bring latex/nitrile gloves for taking/putting them in/out<br>
+even the cleanest hands aren't sterile.
+
+
+<br>
+
+
 **tips / hygiene / asshole**
 
 i never used the portable bidet i bought, different solution required<br>
-maybe a spray bottle with water with a jet feature lmao
+maybe a spray bottle with water with a jet feature lmao.
 
 
 <br>
@@ -61,14 +70,22 @@ maybe a spray bottle with water with a jet feature lmao
 **tips / time**
 
 expecting the unexpected is impossible to do, and the unexpected situations usually take an unexpectedly long time, so give yourself a buffer wherever possible.<br>
-aiming to get to playa on fri? Aim for thur. <br>
-aiming to leave reno on thur? Aim to leave on wed.  
+aiming to get to playa on fri? aim for thur. <br>
+aiming to leave reno on thur? aim to leave on wed.  
 
 worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. and trust, the schedule ***will*** catch up.
 
 
 <br>
 
+
+**tips / time / schedule**
+
+will add more here but to start, make time to go to the temple<br>
+preferably sober. and consider going solo. <br>
+
+
+<br>
 
 
 **tips / tent**
@@ -77,7 +94,7 @@ organize your tent. get drawers or hanging things or shelves.<br>
 living there for a week in a place of complete lack of order, it’s nice to have order in your home
 
 piss jug is so critical for tent (if you have a vagina: pee funnel).<br>
-you do not want: sleeping > need to pee > shoes > walk > pee > walk back > sleep - trust
+you do not want: sleeping > need to pee > shoes > walk > pee > walk back > sleep - seriously.
 
 
 
@@ -104,7 +121,8 @@ then each day rotate one, so you’ll always have a frozen one available.<br>
 there is ***nothing*** like ending a night of cycling with a hot sunrise and some icy cold water<br>
 pro pro move:  add 4-5 sachets of [electrolytes](https://drinklmnt.com)
 
-next year i'm planning on getting a rear view mirror for my (e)bike, for keeping track of the gang<br>
+next year i'm planning on getting a rear view mirror for my (e)bike, for keeping track of the gang
+and probably an led pole/totem so its easier to find<br>
 
 
 <br>
