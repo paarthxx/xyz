@@ -23,6 +23,7 @@ bumping into something sandy (everything) meant i could simply swipe the dust aw
 if first time going hair free, do so a few days prior and make sure to exfoliate for a couple of minutes everyday - it completely mitigates the itching
 seriously considering getting waxed next time
 
+
 **time**
 
 expecting the unexpected is impossible to do, and the unexpected situations usually take an unexpectedly long time, so give yourself a buffer wherever possible.
@@ -31,11 +32,13 @@ aiming to leave reno on thur? Aim to leave on wed
 
 worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.
 
+
 **tent**
 
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
 
 piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust
+
 
 **hygiene / dust**
 
@@ -44,15 +47,18 @@ sounded harsh to me so i went with with hazel + water, and in a spray bottle
 spray on the desired area (or everywhere), wipe with wet wipe
 I did this before sleeping, and followed with a generous application of sheabutter.
 
+
 **hygiene / asshole**
 
 I never used the portable bidet I bought, different solution required
 maybe a spray bottle with water with a jet feature lmao
 
+
 **id**
 
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression
+
 
 **pro moves**
 
@@ -72,6 +78,7 @@ rear view mirror for (e)bike
 - a water bladder (ideally as part of a great backpack)
 - quality socks (lots)
 - spf lip balm
+
 
 i think this will be a continuously growing document so I’ll refine / add when I get time..
 
