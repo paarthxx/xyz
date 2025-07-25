@@ -1,4 +1,4 @@
-# learns from earning my first burn  
+# 2025 is gonna be fuckn’ different bruv / burn learns
 <br>
 
 > ## **'this year i was a witness, next year, i'll be a participant'**
@@ -17,8 +17,7 @@ one small caveat: the desire to realize a vision requires that you be willing (a
 in short: you will earn your burn.
 <br>
 
-> ## **'2025 is gonna be fuckn’ different bruv'**
-<br>
+
 
 **tips / hygiene**
 
