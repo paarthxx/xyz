@@ -86,6 +86,7 @@ piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes
 **tips / id**
 
 (e)bike + lights = self expression = go ham on the lights
+
 undercover ≠ self expression.
 
 
