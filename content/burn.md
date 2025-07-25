@@ -5,7 +5,6 @@
 > ## **'this year i was a witness, next year, i'll be a participant'**
 
 <br>
-
 no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
 
@@ -46,6 +45,7 @@ spray on the desired area (or everywhere), wipe with wet wipe
 I did this before sleeping, and followed with a generous application of sheabutter.
 
 
+<br>
 
 
 **tips / hygiene / asshole**
