@@ -9,6 +9,7 @@ no matter how much preparation you do, as a first timer, i feel you will always 
 the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
 i did a tonne of research leading up to my first burn. i scoured reddit for as much useful information as possible, trawled through a plethora of 'packing lists', and spoke to friends that had attended in previous years. despite my efforts, there's still so much i wish i had known and been better prepared for.
+below is what i found to be most critical that i didn't find anywhere else, though it's unlikely no one else has thought of them. 
 
 
 <br>
@@ -17,7 +18,7 @@ i did a tonne of research leading up to my first burn. i scoured reddit for as m
 **thoughts**
 
 first, some thoughts about burning man:
-burning man is a place where anyone's inner most desires can be realized. if you can think it, it can become a reality (granted, there are still some limitations eg. physics - but if there are people working on evading these limitations, they're here).<br>
+burning man is a place where anyone's inner most desires can be realized. if you can think it, it can become a reality (granted, there are still some limitations eg. physics - but if there are people working on conquering these limitations, they're here).<br>
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.<br>
 in short: you will earn your burn.
 
@@ -27,10 +28,10 @@ in short: you will earn your burn.
 
 **tips / hygiene**
 
-shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness<br>
-besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.<br>
+shave your whole body. less hair = less surface area = faster ttd (time to dry), and a general increase in baseline cleanliness<br>
+if first time going hair free, do so a few days prior.<br>
+besides the initial itchiness for the first 2 days, completely mitigated by exfoliating for a couple of minutes everyday, having no leg hair was a dream on playa.<br>
 bumping into something sandy (everything) meant i could simply swipe the dust away.<br>
-if first time going hair free, do so a few days prior and make sure to exfoliate for a couple of minutes everyday - it completely mitigates the itching<br>
 seriously considering getting waxed next time.
 
 
@@ -39,10 +40,11 @@ seriously considering getting waxed next time.
 
 **tips / hygiene / dust**
 
-to deal with alkaline dust, people recommend applying vinegar + water to neuatralize<br>
+to deal with alkaline dust, people recommend applying vinegar + water to neutralize<br>
 sounded harsh to me so i went with with hazel + water, and in a spray bottle<br>
 spray on the desired area (or everywhere), wipe with wet wipe<br>
-i did this before sleeping, and followed with a generous application of sheabutter.
+i did this before sleeping, and followed with a generous application of sheabutter.<br>
+tbh my skin was thriving, even more so than usual.
 
 
 <br>
@@ -59,8 +61,8 @@ even the cleanest hands aren't sterile.
 
 **tips / hygiene / asshole**
 
-i never used the portable bidet i bought, different solution required<br>
-maybe a spray bottle with water with a jet feature lmao.
+i never used the portable bidet i bought - different solution required<br>
+maybe a water in a spray bottle with a jet feature lmao.
 
 
 <br>
@@ -119,10 +121,10 @@ undercover ≠ self expression.
 if you have access to a freezer, take x2 hydration packs, fill both and freeze.<br>
 then each day rotate one, so you’ll always have a frozen one available.<br>
 there is ***nothing*** like ending a night of cycling with a hot sunrise and some icy cold water<br>
-pro pro move:  add 4-5 sachets of [electrolytes](https://drinklmnt.com)
+pro pro move:  add 4-5 sachets of [electrolytes](https://drinklmnt.com).
 
 next year i'm planning on getting a rear view mirror for my (e)bike, for keeping track of the gang
-and probably an led pole/totem so its easier to find<br>
+and probably an led pole/totem so it's easier to find.<br>
 
 
 <br>
