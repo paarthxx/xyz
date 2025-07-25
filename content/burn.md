@@ -20,8 +20,6 @@ in short: you will earn your burn.
 ## **'2025 is gonna be fuckn’ different bruv'**
 
 
-## tips
-
 ### tips / hygiene
 
 shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness
