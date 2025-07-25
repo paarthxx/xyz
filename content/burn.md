@@ -11,7 +11,7 @@ burning man is a place where anyone's inner most desires can be realized. if you
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.
 in short: you will earn your burn.
 
-## ‘**2025 is gonna be fuckn’ different bruv'**
+## **'2025 is gonna be fuckn’ different bruv'**
 
 ### tips
 
