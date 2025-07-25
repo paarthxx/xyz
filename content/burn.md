@@ -11,7 +11,6 @@ no matter how much preparation you do, as a first timer, i feel you will always 
 <br>
 
 
-
 **thoughts**
 
 i did a tonne of research leading up to my first burn. i scoured reddit for as much useful information as possible, trawled through a plethora of 'packing lists', and spoke to friends that had attended in previous years. despite my efforts, there's still so much i wish i had known and been better prepared for.
@@ -23,7 +22,6 @@ in short: you will earn your burn.
 
 
 <br>
-
 
 
 **tips / hygiene**
