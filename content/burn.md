@@ -118,7 +118,7 @@ next year i'm planning on getting a rear view mirror for my (e)bike, for keeping
 - a [cord for your sunglasses](https://a.co/d/8SkrU7T) so they can hang around your neck
 - a hydration pack (ideally as part of a great [backpack](https://a.co/d/elNeBa4))
 - quality socks made of natural fibres (wool, cotton / lots)
-- spf lip balm
+- [spf lip balm](https://a.co/d/9a8PT9h)
 
 
 <br>
