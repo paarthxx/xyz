@@ -87,8 +87,7 @@ rear view mirror for (e)bike.
 - a cord for your sunglasses so it can hang around your neck
 - a water bladder (ideally as part of a great backpack)
 - quality socks (lots)
-- spf lip balm  
-
+- spf lip balm
 
 
 i think this will be a continuously growing document so I’ll refine / add when I get time..
