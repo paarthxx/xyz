@@ -74,7 +74,7 @@ worst case scenario, you’ll be way ahead of schedule, which is never a bad thi
 **tips / tent**
 
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
-piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust
+piss jug is so critical for tent, you do not want: sleeping > need to pee > shoes > walk > pee > walk back > sleep - trust
 
 
 <br>
@@ -95,8 +95,8 @@ undercover ≠ self expression.
 
 **tips / pro moves**
 
-if you have access to a freezer, take x2 water bladders, fill both and freeze. Then each day rotate one, so you’ll always have a frozen one available
-there is **nothing** like ending a cold night of cycling with a hot sunrise and some icy cold water (pro pro move:  add 4-5 sachets of electrolytes)
+if you have access to a freezer, take x2 hydration packs, fill both and freeze. Then each day rotate one, so you’ll always have a frozen one available
+there is **nothing** like ending a cold night of cycling with a hot sunrise and some icy cold water (pro pro move:  add 4-5 sachets of [electrolytes](https://drinklmnt.com))
 
 rear view mirror for (e)bike. 
 
@@ -105,12 +105,12 @@ rear view mirror for (e)bike.
 
 **absofruit essentials:**
 
-- earplugs (for music and for sleeping)
+- earplugs (for [music](https://www.earpeace.com/products/music-earplugs?srsltid=AfmBOopBT1oMBSt0o9edy9mjAdCPffVi97jPNxZ6yPGePovGvrLGwwbh) and for [sleeping](https://a.co/d/1uMEb0b))
 - dust mask (maybe one for cycling and one for walking)
 - lightweight footwear
 - water proof shoe covers - put on before any contact with wet playa, like while still in your tent
-- a cord for your sunglasses so it can hang around your neck
-- a water bladder (ideally as part of a great backpack)
+- a [cord for your sunglasses](https://a.co/d/8SkrU7T) so they can hang around your neck
+- a hydration pack (ideally as part of a great [backpack](https://a.co/d/elNeBa4))
 - quality socks made of natural fibres (wool, cotton / lots)
 - spf lip balm
 
