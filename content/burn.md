@@ -4,7 +4,10 @@
 
 > ## **'this year i was a witness, next year, i'll be a participant'**
 
+<br>
+
 no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
+
 
 <br>
 
@@ -17,6 +20,7 @@ first, some thoughts about burning man:
 burning man is a place where anyone's inner most desires can be realized. if you can think it, it can become a reality (granted, there are still some limitations eg. physics - but if there are people working on evading these limitations, they're here).
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.
 in short: you will earn your burn.
+
 
 <br>
 
@@ -33,6 +37,7 @@ seriously considering getting waxed next time.
 
 <br>
 
+
 **tips / hygiene / dust**
 
 to deal with alkaline dust, people recommend applying vinegar + water to neuatralize
@@ -47,6 +52,8 @@ I did this before sleeping, and followed with a generous application of sheabutt
 
 I never used the portable bidet I bought, different solution required
 maybe a spray bottle with water with a jet feature lmao
+
+
 <br>
 
 
@@ -59,6 +66,7 @@ aiming to leave reno on thur? Aim to leave on wed.
 
 worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.
 
+
 <br>
 
 
@@ -67,6 +75,7 @@ worst case scenario, you’ll be way ahead of schedule, which is never a bad thi
 
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
 piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust
+
 
 <br>
 
@@ -78,6 +87,7 @@ piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression.
 
+
 <br>
 
 
@@ -87,6 +97,7 @@ if you have access to a freezer, take x2 water bladders, fill both and freeze. T
 there is **nothing** like ending a cold night of cycling with a hot sunrise and some icy cold water (pro pro move:  add 4-5 sachets of electrolytes)
 
 rear view mirror for (e)bike. 
+
 
 <br>
 
@@ -100,6 +111,7 @@ rear view mirror for (e)bike.
 - a water bladder (ideally as part of a great backpack)
 - quality socks made of natural fibres (wool, cotton / lots)
 - spf lip balm
+
 
 <br>
 
