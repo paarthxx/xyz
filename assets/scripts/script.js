@@ -24,9 +24,15 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   // Function to load footer content
-  const loadFooter = async () => {
+  const loadFooter = async (pageFile) => {
     try {
-      const response = await fetch("content/footer.html");
+      let footerPath = "content/footer.html";
+      if (pageFile === "burn.md") {
+      footerPath = "content/footer-burn.html";
+      } else if (pageFile === "index.md") {
+      footerPath = "content/footer.html";
+    }
+      const response = await fetch(footerPath);
       if (!response.ok) throw new Error("Footer not found");
       const footerHtml = await response.text();
       footerContainer.innerHTML = footerHtml;
@@ -60,6 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
       contentElement.innerHTML = marked.parse(text); // Convert Markdown to HTML
       history.pushState({}, "", `#${file}`);
       loadNavigation(file); // Update navigation after loading the page
+      loadFooter(file);
     } catch (error) {
       console.error("Failed to load page:", error);
       contentElement.innerHTML = "<h1>404 - Page not found</h1>";
@@ -69,7 +76,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // Initial page load
   const initialPage = window.location.hash.substring(1) || defaultPage;
   loadPage(initialPage);
-  loadFooter(); // Load the footer once on page load
 
   // Event delegation for navigation links
   navElement.addEventListener("click", (event) => {
