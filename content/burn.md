@@ -3,8 +3,8 @@
 
 > ## **'this year i was a witness, next year, i'll be a participant'**
 
-
 no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
+
 ---
 
 
@@ -27,6 +27,7 @@ besides the initial itchiness for the first 2 days, mitigated by exfoliating, ha
 bumping into something sandy (everything) meant i could simply swipe the dust away.
 if first time going hair free, do so a few days prior and make sure to exfoliate for a couple of minutes everyday - it completely mitigates the itching
 seriously considering getting waxed next time.
+
 ---
 
 
@@ -36,6 +37,7 @@ to deal with alkaline dust, people recommend applying vinegar + water to neuatra
 sounded harsh to me so i went with with hazel + water, and in a spray bottle
 spray on the desired area (or everywhere), wipe with wet wipe
 I did this before sleeping, and followed with a generous application of sheabutter.
+
 ---
 
 
@@ -43,6 +45,7 @@ I did this before sleeping, and followed with a generous application of sheabutt
 
 I never used the portable bidet I bought, different solution required
 maybe a spray bottle with water with a jet feature lmao
+
 ---
 
 
@@ -53,6 +56,7 @@ aiming to get to playa on fri? Aim for thur
 aiming to leave reno on thur? Aim to leave on wed
 
 worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.
+
 ---
 
 
@@ -60,6 +64,7 @@ worst case scenario, you’ll be way ahead of schedule, which is never a bad thi
 
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
 piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust
+
 ---
 
 
@@ -68,6 +73,7 @@ piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes
 **tips / id**
 (e)bike + lights = self expression = go ham on the lights
 undercover ≠ self expression.
+
 ---
 
 **tips / pro moves**
