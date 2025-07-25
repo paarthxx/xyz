@@ -1,6 +1,6 @@
-### learns from earning my first burn  
+## learns from earning my first burn  
 
-#### 'this year i was a witness, next year, i'll be a participant'
+### ***'this year i was a witness, next year, i'll be a participant'***
 
 no matter how much preparation you do, as a first timer, you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
@@ -11,9 +11,9 @@ burning man is a place where anyone's inner most desires can be realized. if you
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.
 in short: you will earn your burn.
 
-#### ‘**2025 is gonna be fuckn’ different bruv'**
+### ‘**2025 is gonna be fuckn’ different bruv'**
 
-**tips:**
+#### tips
 
 **hair**
 shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness
@@ -22,7 +22,7 @@ bumping into something sandy (everything) meant i could simply swipe the dust aw
 if first time going hair free, do so a few days prior and make sure to exfoliate for a couple of minutes everyday - it completely mitigates the itching
 seriously considering getting waxed next time
 
-**time**
+#### **time**
 expecting the unexpected is impossible to do, and the unexpected situations usually take an unexpectedly long time, so give yourself a buffer wherever possible.
 aiming to get to playa on fri? Aim for thur
 aiming to leave reno on thur? Aim to leave on wed
