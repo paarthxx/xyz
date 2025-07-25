@@ -1,6 +1,6 @@
-## learns from earning my first burn  
+# learns from earning my first burn  
 
-### ***'this year i was a witness, next year, i'll be a participant'***
+## ***'this year i was a witness, next year, i'll be a participant'***
 
 no matter how much preparation you do, as a first timer, you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
@@ -11,11 +11,11 @@ burning man is a place where anyone's inner most desires can be realized. if you
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.
 in short: you will earn your burn.
 
-### ‘**2025 is gonna be fuckn’ different bruv'**
+## ‘**2025 is gonna be fuckn’ different bruv'**
 
 #### tips
 
-**hair**
+#### **hair**
 shave your whole body. less hair = less surface area = faster ttd (time to dry) if wet, and a general increase in baseline cleanliness
 besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.
 bumping into something sandy (everything) meant i could simply swipe the dust away.
@@ -53,6 +53,7 @@ if you have access to a freezer, take x2 water bladders, fill both and freeze. T
 there is **nothing** like ending a cold night of cycling with a hot sunrise and some icy cold water (pro pro move:  add 4-5 sachets of electrolytes)
 
 rear view mirror for (e)bike
+
 
 **absofruit essentials:**
 
