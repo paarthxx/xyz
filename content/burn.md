@@ -4,7 +4,7 @@
 ## **'this year i was a witness, next year, i'll be a participant'**
 
 
-no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.  
+no matter how much preparation you do, as a first timer, i feel you will always be a witness. the following is intended to help you be an involved witness, and if called, to be a participant in subsequent years.
 
 
 **thoughts**  
@@ -13,7 +13,7 @@ i did a tonne of research leading up to my first burn. i scoured reddit for as m
 first, some thoughts about burning man:
 burning man is a place where anyone's inner most desires can be realized. if you can think it, it can become a reality (granted, there are still some limitations eg. physics - but if there are people working on evading these limitations, they're here).
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.
-in short: you will earn your burn.  
+in short: you will earn your burn.
 
 
 ## **'2025 is gonna be fuckn’ different bruv'**
@@ -25,7 +25,7 @@ shave your whole body. less hair = less surface area = faster ttd (time to dry) 
 besides the initial itchiness for the first 2 days, mitigated by exfoliating, having no leg hair was a dream on playa.
 bumping into something sandy (everything) meant i could simply swipe the dust away.
 if first time going hair free, do so a few days prior and make sure to exfoliate for a couple of minutes everyday - it completely mitigates the itching
-seriously considering getting waxed next time.  
+seriously considering getting waxed next time.
 
 
 **tips / hygiene / dust**
@@ -33,13 +33,13 @@ seriously considering getting waxed next time.
 to deal with alkaline dust, people recommend applying vinegar + water to neuatralize
 sounded harsh to me so i went with with hazel + water, and in a spray bottle
 spray on the desired area (or everywhere), wipe with wet wipe
-I did this before sleeping, and followed with a generous application of sheabutter.  
+I did this before sleeping, and followed with a generous application of sheabutter.
 
 
 **tips / hygiene / asshole**
 
 I never used the portable bidet I bought, different solution required
-maybe a spray bottle with water with a jet feature lmao  
+maybe a spray bottle with water with a jet feature lmao
 
 
 **tips / time**
@@ -48,13 +48,13 @@ expecting the unexpected is impossible to do, and the unexpected situations usua
 aiming to get to playa on fri? Aim for thur
 aiming to leave reno on thur? Aim to leave on wed
 
-worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.  
+worst case scenario, you’ll be way ahead of schedule, which is never a bad thing. And trust, the schedule WILL catch up.
 
 
 **tips / tent**
 
 organize your tent. get drawers or hanging things or shelves. living there for a week in a place of complete lack of order, it’s nice to have order in your home
-piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust  
+piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes > walk > toilet > walk back > back to sleep - trust
 
 
 
@@ -63,8 +63,8 @@ piss jug is so critical for tent, you do not want: sleeping > need to pee > hoes
 **tips / id**
 
 (e)bike + lights = self expression = go ham on the lights
-undercover ≠ self expression. 
---
+undercover ≠ self expression.
+---
 
 **tips / pro moves**
 
