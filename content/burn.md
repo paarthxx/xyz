@@ -30,7 +30,7 @@ in short: you will earn your burn.
 
 shave your whole body. less hair = less surface area = faster ttd (time to dry), and a general increase in baseline cleanliness<br>
 if first time going hair free, do so a few days prior.<br>
-besides the initial itchiness for the first 2 days, completely mitigated by exfoliating for a couple of minutes everyday, having no leg hair was a dream on playa.<br>
+besides the initial itchiness for the first 2 days, completely mitigated by exfoliating for a couple of minutes everyday, having no body+leg hair was a dream on playa.<br>
 bumping into something sandy (everything) meant i could simply swipe the dust away.<br>
 seriously considering getting waxed next time.
 
@@ -41,7 +41,7 @@ seriously considering getting waxed next time.
 **tips / hygiene / dust**
 
 to deal with alkaline dust, people recommend applying vinegar + water to neutralize<br>
-sounded harsh to me so i went with with hazel + water, and in a spray bottle<br>
+sounded harsh to me so i went with witch hazel + water, and in a spray bottle<br>
 spray on the desired area (or everywhere), wipe with wet wipe<br>
 i did this before sleeping, and followed with a generous application of sheabutter.<br>
 tbh my skin was thriving, even more so than usual.
