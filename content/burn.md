@@ -101,8 +101,7 @@ preferably sober. and consider going solo. <br>
 understand that you ***will*** miss many of the things you set out to do, especially coz immediacy<br>
 some people set out with zero agenda, other's have an elaborate itinerary<br>
 the approach i'll be testing next time is to have a destination, while allowing myself to be swept up in whatever happens along the way<br>
-i imagine this will give me some sense of 'direction', mitigate feeling aimless, while leaving ample room for serendipity<br>
-i could also be totally wrong.
+i imagine this will give me some sense of 'direction', mitigate feeling aimless, while leaving ample room for serendipity. i could also be totally wrong.
 
 
 <br>
@@ -117,10 +116,7 @@ piss jug is so critical for tent (if you have a vagina: pee funnel).<br>
 you do not want: sleeping > need to pee > shoes > walk > pee > walk back > sleep - seriously.
 
 
-
 <br>
-
-
 
 
 **tips / id**
