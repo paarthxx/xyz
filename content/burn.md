@@ -2,7 +2,7 @@
 
 <br>
 
-> ## **'this year i was a witness, next year, i'll be a participant'**
+> ## **'this year i was a witness, next year i'll be a participant'**
 
 <br>
 no matter how much preparation you do, as a first timer, i feel you will always be a witness.<br>
@@ -18,9 +18,21 @@ below is what i found to be most critical that i didn't find anywhere else, thou
 **thoughts**
 
 first, some thoughts about burning man:
-burning man is a place where anyone's inner most desires can be realized. if you can think it, it can become a reality (granted, there are still some limitations eg. physics - but if there are people working on conquering these limitations, they're here).<br>
+burning man is a place where anyone's inner most desires can be realized. if you can think it, it can become a reality (granted, there are still some limitations eg. physics, though if there are people working on conquering these limitations, they're here).<br>
 one small caveat: the desire to realize a vision requires that you be willing (and prepared) to navigate the unforgiving elements at play on playa.<br>
 in short: you will earn your burn.
+
+
+<br>
+
+
+**thoughts / ethos**
+
+you're undoubtedly already familiar with the [10 principals](https://burningman.org/about/10-principles/), however you may not know that people follow these principals on a spectrum. let's say it's from 0-11.<br>
+0 = they don't give a f**k<br>
+11 = they're stewards of the principal(s) in the default world.<br>
+understanding this nuance will help you manage your expectations, and help in understanding unexpected reactions when you, say, ask someone for help (radical inclusion = 0, radical self-reliance = 10),<br>
+or when you see someone treat the playa like their own personal landfill (civic responsibility = 0, leave no trace = 0).
 
 
 <br>
@@ -83,8 +95,14 @@ worst case scenario, you’ll be way ahead of schedule, which is never a bad thi
 
 **tips / time / schedule**
 
-will add more here but to start, make time to go to the temple<br>
+make time to go to the temple<br>
 preferably sober. and consider going solo. <br>
+
+understand that you ***will*** miss many of the things you set out to do, especially coz immediacy<br>
+some people set out with zero agenda, other's have an elaborate itinerary<br>
+the approach i'll be testing next time is to have a destination, while allowing myself to be swept up in whatever happens along the way<br>
+i imagine this will give me some sense of 'direction', mitigate feeling aimless, while leaving ample room for serendipity<br>
+i could also be totally wrong.
 
 
 <br>
@@ -105,12 +123,13 @@ you do not want: sleeping > need to pee > shoes > walk > pee > walk back > sleep
 
 
 
-
 **tips / id**
 
 (e)bike + lights = self expression = go ham on the lights
 
-undercover ≠ self expression.
+undercover ≠ self expression
+
+the orgy dome ***only accepts physical ids***, don't show up unprepared unless you enjoy having blue balls
 
 
 <br>
