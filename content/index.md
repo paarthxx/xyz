@@ -31,7 +31,7 @@ Your perspective likely differs, so without further ado...<br>
 - [Conditioner](https://livinglibations.com/products/shine-on-hair-conditioner-dlvrr?variant=42980597235850)
 - [Daytime Moisturizer](https://alitura.com/collections/all/products/alitura-gold-serum)
 - [Deodorant](https://livinglibations.com/products/underarm-charm-creme-deodorant-maverick-dlvrr?_pos=5&_sid=99f30a105&_ss=r)
-- [Deoderant (Baking Soda-free)](https://superdeodorant.com/products/unscented-aluminum-free-baking-soda-free-natural-deodorant-paste)
+- [Deodorant (Baking Soda-free)](https://superdeodorant.com/products/unscented-aluminum-free-baking-soda-free-natural-deodorant-paste)
 - [Hair Styling Clay](https://www.morrismotley.com/products/matte-styling-balm)
 - [Hand Soap / Travel Body Wash](https://www.drbronner.com/products/baby-unscented-pure-castile-liquid-soap)
 - [Nighttime Moisturizer](https://alitura.com/collections/all/products/the-alitura-night-cream)
@@ -65,7 +65,7 @@ Your perspective likely differs, so without further ado...<br>
 ## Tech
 
 - [Ear Plugs](https://jhaudio.com/accessories/JHA-FLTR-PLUG)
-- [Headphones](https://www.apple.com/shop/buy-airpods/airpods-pro-2?fnode=5862bdad5427e2eb7dfe69207d14aacbfb83872c9257f0356cdc9de5b21ddbe0a3d8e22ad371588594b43b9f0c8ee1ed85932b581a36eb694306933e8e7221c9f77f27bc8875f71b560d0dc587cd3dc3c3ed92c14d11083bf84d6779bce7993ad731bf0aa16060a0fef2aa7d2af9b92467737f50f77c9e7f1fa55dc9b188d4b1&fs=f%3Dapple-overear-sport%26fh%3D47d1%2B3214%2B45aa%2B45ab)
+- [Headphones](https://www.apple.com/shop/buy-airpods/airpods-pro-3)
 - [Lights](https://www.philips-hue.com/en-us?--&gad_source=1&gbraid=0AAAAAqwUBERQDVV7KU_QeXr4jHnQeb0uc&gclid=CjwKCAjw4ri0BhAvEiwA8oo6F_Cua-Fx585UZy4Nx528UF_IrQQ-BLa7Ustg4pn4Fmk2aOIfH9cF5RoCkxoQAvD_BwE&gclsrc=aw.ds)
 - [Oura Ring](https://ouraring.com) ([Referral](https://ouraring.com/product/rings/oura-ring-4/silver?utm_source=user&utm_medium=iac_raf&utm_type=alwayson-cvr&utm_campaign=2025RAF&utm_variant=2025_raf_dec_gen3)) - gives us both 10% off
 - [Speaker](https://www.apple.com/shop/buy-homepod/homepod)
